@@ -1,12 +1,12 @@
 {
   "name": "react-file-viewer",
-  "version": "1.2.1",
+  "version": "1.0.0",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plangrid/react-file-viewer.git"
+    "url": "git+https://github.com/amamdouh1939/react-file-viewer.git"
   },
   "scripts": {
     "dev": "webpack -d --watch",
@@ -17,27 +17,18 @@
     "jest": "node_modules/.bin/jest --env=jsdom",
     "tag-and-publish": "node ./scripts/publish.js"
   },
-  "author": "PlanGrid <opensource@plangrid.com>",
+  "author": "Ahmed Mamdouh <ahmad.mohammed.1939@gmail.com>",
   "contributors": [
     {
-      "name": "Alexei Schiopu",
-      "email": "alexxschiopu@gmail.com",
-      "url": "http://schiopu.me"
-    },
-    {
-      "name": "Aaron Norby",
-      "email": "aaron.norby@gmail.com"
-    },
-    {
-      "name": "Viktoriya Savkina",
-      "email": "viktoriya.savkina@gmail.com"
+      "name": "Ahmed Mamdouh",
+      "email": "ahmad.mohammed.1939@gmail."
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plangrid/react-file-viewer/issues"
+    "url": "https://github.com/amamdouh1939/react-file-viewer/issues"
   },
-  "homepage": "https://github.com/plangrid/react-file-viewer#readme",
+  "homepage": "https://github.com/amamdouh1939/react-file-viewer#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.0",
     "babel-core": "^6.24.1",
