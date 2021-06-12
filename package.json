@@ -1,5 +1,5 @@
 {
-  "name": "react-file-viewer",
+  "name": "react-file-viewer-limit-videos",
   "version": "1.0.0",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
